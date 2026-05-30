@@ -1,0 +1,1 @@
+![[FINO_Scheda Bando 42.pdf]]
