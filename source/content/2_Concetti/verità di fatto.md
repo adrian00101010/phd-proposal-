@@ -1,1 +1,2 @@
-Collegata alla distinzione con le `vérités de raison` (Monadologia §§ 33–36) e alla necessità della mediazione documentaria per la verità storica
+Monadologia §§ 33–36 
+da collegare con la necessità della mediazione documentaria per la verità storica

@@ -21,3 +21,10 @@ materialità del documento
 l'archivio come soggetto non solo come fonte
 
 [https://aha.confex.com/aha/2015/webprogram/Session12018.html]()
+
+Manca una teoria dell’archivio come:
+infrastruttura epistemica;
+dispositivo di ordinamento;
+tecnologia di conservazione della referenza;
+condizione materiale della certitudo moralis;
+mediazione tra memoria, prova e verità storica.

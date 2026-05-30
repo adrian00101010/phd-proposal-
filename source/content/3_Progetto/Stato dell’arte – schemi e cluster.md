@@ -1,8 +1,8 @@
-`Leibniz storico/archivista` (Spitz, Antognazza, edizione Akademie)
+Leibniz storico/archivista (Spitz, Antognazza, Gädeke, Akademie)
 
-`Narrativismo e rappresentazione` (Danto–Ankersmit, tre fasi di Ankersmit
+Narrativismo e rappresentazione (Ankersmit)
 
-`Archival turn e epistemologia storica` (Mabillon, ius archivi, Friedrich, Daston, Ricoeur)
+Archival turn e epistemologia storica (Mabillon, ius archivi, , Daston, Ricoeur)
 
 per ogni cluster:
 che cosa dicono
