@@ -1,4 +1,4 @@
- Leibniz ha una **teoria implicita dell'archivio** come infrastruttura della memoria storica e della verità di fatto
+ Leibniz ha una teoria implicita dell'archivio come infrastruttura della memoria storica e della verità di fatto
 
 [[Ulysses Pinheiro]]
 
