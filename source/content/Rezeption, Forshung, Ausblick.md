@@ -1,1 +1,0 @@
-![[Gottfried Wilhelm Leibniz 300 Jahre - Rezeption, Forschung, Ausblick -- Beiderbeck, Li, Waldhoff (eds) -- 2019 -- BWV Berliner -- 9783515119627.pdf]]

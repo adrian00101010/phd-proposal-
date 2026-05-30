@@ -1,9 +1,9 @@
-docente ad Amburgo
- programma di ricerca interdisciplinare dedicato esplicitamente alla "Rechtsphilosophie, Rechtslogik und Rechtsdogmatik bei G.W. Leibniz".
+ docente ad Amburgo
+ programma di ricerca interdisciplinare dedicato  alla Rechtsphilosophie, Rechtslogik und Rechtsdogmatik bei G.W. Leibniz
 
-"Leibniz's Legal Logic" (2017) — ricostruzione formale della logica leibniziana applicata al diritto
+"Leibniz's Legal Logic" (2017)  ricostruzione formale della logica leibniziana applicata al diritto
 
-"Presumptions and Conjectures in Leibniz's Legal Theory" (Springer, 2015) — direttamente rilevante per il progetto sulla  [[fides historica]] la #prova indiziaria
+"Presumptions and Conjectures in Leibniz's Legal Theory" (Springer, 2015)  direttamente rilevante per il progetto sulla  [[fides historica]] la #prova indiziaria
 
 "Leibniz as Legal Scholar" (2014)
 
