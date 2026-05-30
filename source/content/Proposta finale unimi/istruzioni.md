@@ -1,5 +1,5 @@
   
-Il progetto dovrà avere almeno 2.000 e non più di 4.000 parole, bibliografia esclusa![[allegatibando-2027-1-dottorato-in-filosofia-e-scienze-umane.docx]]
+Il progetto dovrà avere almeno 2.000 e non più di 4.000 parole, **bibliografia esclusa**![[allegatibando-2027-1-dottorato-in-filosofia-e-scienze-umane.docx]]
   
 
 **DICHIARAZIONE** **SOSTITUTIVA** **DI** **ATTO** **NOTORIO**
