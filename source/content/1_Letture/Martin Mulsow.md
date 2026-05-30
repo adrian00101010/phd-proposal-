@@ -17,3 +17,6 @@ pratiche marginali del sapere
 Si occupa delle infrastrutture materiali della conoscenza (corrispondenze, manoscritti, reti erudite), in dialogo con Lorraine [[Daston]] e Anthony [[Grafton]]
 
 #verificare come Il suo lavoro sulle reti di sapere clandestino e sulla trasmissione documentaria interseca direttamente il tema delle condizioni epistemiche delle verità di fatto
+
+
+nota: non consigliabile citarlo a Villa 
