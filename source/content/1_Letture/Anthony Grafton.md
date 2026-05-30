@@ -1,0 +1,1 @@
+![[The footnote - a curious history -- Grafton, Anthony -- [Rev_ ed_]_, Cambridge, Mass, Massachusetts, 1997 -- Cambridge, Mass_ - Harvard University -- isbn13 9780674307605 -- 526f964d1f91781e94541e636283d195 -- Anna’s Archive.pdf]]

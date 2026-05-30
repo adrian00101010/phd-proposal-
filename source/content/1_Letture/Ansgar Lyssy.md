@@ -1,0 +1,1 @@
+![[Kausalität und Teleologie bei G_ W_ Leibniz -- Ansgar Lyssy -- Studia Leibnitiana_ Sonderhefte, 48, 2016 -- BWV Berliner Wissenschafts-Verlag_ in -- 9783515113496 -- 762eb490d6779b6bc8c34c624a4f5938 -- Anna’s Archive.pdf]]

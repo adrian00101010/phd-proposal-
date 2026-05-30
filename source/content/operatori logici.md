@@ -1,0 +1,1 @@
+documento come operatore di identificazione, validazione, compossibilità
