@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "95edabadf1432baa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "1_Letture/Rezeption, Forshung, Ausblick.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Rezeption, Forshung, Ausblick"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "6d10d00e5f9a726a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Proposta finale unimi/1) 2) Titolo e abstract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1) 2) Titolo e abstract"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Proposta finale unimi/1) 2) Titolo e abstract.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for 1) 2) Titolo e abstract"
             }
           },
           {
@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,11 +185,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "6d10d00e5f9a726a",
   "lastOpenFiles": [
-    "category-folder/Some note.md",
-    "category-folder/index.md",
-    "index.md",
-    "category-folder"
+    "genesi e motivazione.md",
+    "1_Letture/Rezeption, Forshung, Ausblick.md",
+    "1_Letture/Michel Serres.md",
+    "2_Concetti/Erkenntnistheorie.md",
+    "2_Concetti/Nachlass.md",
+    "1_Letture/Lorraine Daston.md",
+    "2_Concetti/Razionalità documentaria.md",
+    "1_Letture/Frank Ankersmit.md",
+    "1_Letture/Anthony Grafton.md",
+    "Bibliografia.md",
+    "Pyrrhonismi Historici argumentum tractasti... in meliorem partem propendendum censeo, GP VII, 486.md",
+    "3_Progetto/Leibniz giurista.md",
+    "2_Concetti/Untitled.md",
+    "3_Progetto/Punto di partenza.md",
+    "2_Concetti/Storiografia monadologica.md",
+    "2_Concetti/fides historica.md",
+    "modello giudiziario di accertamento.md",
+    "2_Concetti/archival turn.md",
+    "2_Concetti/modelli giudiziari.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Proposta finale unimi/istruzioni.md",
+    "Untitled 1.base",
+    "Rezeption, Forshung, Ausblick.md",
+    "Stato dell’arte – mappa.md",
+    "Struttura progetto – capitoli e fasi.md",
+    "Untitled.base",
+    "1_Letture/Giovanni Sartor,  Alberto Artosi, Bernardo Pieri.md",
+    "Untitled.md",
+    "Gottfried Wilhelm Leibniz 300 Jahre - Rezeption, Forschung, Ausblick -- Beiderbeck, Li, Waldhoff (eds) -- 2019 -- BWV Berliner -- 9783515119627.pdf",
+    "Historical Representation (Cultural Memory in the Present) -- Frank R Ankersmit -- Cultural memory in the present, Orig_-Printing, Stanford, -- isbn13 9780804739795 -- d86574829e192500cd286a8be27fa505 -- Anna’s Archive.pdf",
+    "1_Letture/Untitled 1.md",
+    "FINO_Scheda Bando 42.pdf",
+    "Proposta finale unito FINO",
+    "allegatibando-2027-1-dottorato-in-filosofia-e-scienze-umane.docx",
+    "0_Inbox/category-folder",
+    "The new philosophy of history -- Ankersmit, Frank; Kellner, Hans -- Critical views series, London, 1995 -- Reaktion Books -- isbn13 9780948462771 -- 828a183e394def4180f29b9bf98b7b28 -- Anna’s Archive.pdf",
+    "The footnote - a curious history -- Grafton, Anthony -- [Rev_ ed_]_, Cambridge, Mass, Massachusetts, 1997 -- Cambridge, Mass_ - Harvard University -- isbn13 9780674307605 -- 526f964d1f91781e94541e636283d195 -- Anna’s Archive.pdf"
   ]
 }
